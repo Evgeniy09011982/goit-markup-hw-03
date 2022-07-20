@@ -395,6 +395,10 @@ margin-bottom: 30px;
   color: var(--secondary-txt-cl);
 }
 
+.contacts {
+  font-style: normal;
+}
+
 .footer-address {
   font-family: var(--main-font);
   font-weight: 400;
@@ -435,7 +439,7 @@ margin-bottom: 30px;
 /* Hero portfolio*/
 /* Main section portfolio */
 .header-portfolio {
-  border: 1px solid #ececec;
+  border-bottom:  1px solid #ececec;
 }
 
 .portfolio {
@@ -451,7 +455,7 @@ display: flex;
 gap: 8px;
 margin-left: auto;
 margin-right: auto;
-margin-bottom: 34px;
+margin-bottom: 50px;
 
 }
 .button-current {
